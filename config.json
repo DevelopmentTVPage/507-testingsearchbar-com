@@ -1,0 +1,15 @@
+{
+    "title": "Testing SEarch",
+    "baseURL": "https:\/\/testingsearchbar.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758166",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "testingsearchbar.com"
+    }
+}
